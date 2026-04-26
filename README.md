@@ -49,7 +49,7 @@ To run this project on your local machine, follow these steps:
    streamlit run app.py
 
 📂 Project Structure
-Plaintext
+
 Smart-Study-Planner/
 │
 ├── app.py              # Main application logic & Premium UI
