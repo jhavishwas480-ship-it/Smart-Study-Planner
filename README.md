@@ -7,7 +7,7 @@
 ## 🚀 Live Demo
 **Check out the live application here:** 👉 [**Click to View Live Demo**]https://smart-study-planner-project.streamlit.app/
 
-*(Note: Replace the link above with your actual URL once you deploy to Streamlit Cloud)*
+
 
 ---
 
