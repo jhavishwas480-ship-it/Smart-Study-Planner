@@ -51,7 +51,10 @@ To run this project on your local machine, follow these steps:
 📂 Project Structure
 
 Smart-Study-Planner/
+
 │
 ├── app.py              # Main application logic & Premium UI
+
 ├── requirements.txt    # Python dependencies (Streamlit, Pandas, Plotly)
+
 └── README.md           # Project documentation & Academic credits
