@@ -47,6 +47,7 @@ To run this project on your local machine, follow these steps:
 3. **Launch the application:**
     ```bash
    streamlit run app.py
+
 📂 Project Structure
 Plaintext
 Smart-Study-Planner/
